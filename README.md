@@ -14,6 +14,7 @@ A simple example of what I hope to achieve: [Eaki 🌸🐢 on Twitter](https://t
 Ill be working on a project along side my learning, using what i make in the assignments to put it all together in the end. I'll be showing off my progress during the midterm presentation and hopefully the final thing at the final presentation.
 
 This is the music I had in mind for the animation. I'll use it as a starting point: [C418 - Dreiton (Minecraft) (Nihhiu Remix) old 2](https://www.youtube.com/watch?v=V_8xb0xFSM0)
+
 *update: recent developments has forced me to come to the conclusion that I may have over estimated my abilities and the time that I have. therefore I cannot do the above as a final project as I had hoped. nonetheless I will return to the idea one day as its something I really want to do when I get the chance.
 
 my goal is to at least get started building up my technical skills in 2D animation. As well as explore my creativity a little bit with a project. Seeing how well i can tell a story simply with symbols, movement and expression. or "Visual storytelling"! 
